@@ -1,2 +1,2 @@
-# svxd.github.io
-Granit
+# Granit
+My first site
